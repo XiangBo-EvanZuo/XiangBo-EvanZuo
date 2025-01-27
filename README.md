@@ -3,6 +3,8 @@
 - 🔭 Java将会成为第一语言，职业规划为【重后端】的【全栈】方向。
 - 📫 联系我：15942043949
 - 😄 [我的B站主页，分享技术](https://space.bilibili.com/309430466)
+- 接单中，请加VX：PythonistaWang
+- 
 
 ![编程语言](https://github-readme-stats.vercel.app/api/top-langs/?username=XiangBo-EvanZuo&layout=compact&theme=holi&hide=html,Less,Vue&custom_title=编程语言)
 # 我的职业生涯Record：
