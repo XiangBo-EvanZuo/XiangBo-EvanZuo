@@ -4,7 +4,7 @@
 - 📫 联系我：15942043949
 - 😄 [我的B站主页，分享技术](https://space.bilibili.com/309430466)
 - 接单中，请加VX：PythonistaWang
-- <img src="https://github.com/XiangBo-EvanZuo/XiangBo-EvanZuo/blob/main/IMG/wechat.jpg" />
+- <img style="height:100px; width: 100px;’" src="https://github.com/XiangBo-EvanZuo/XiangBo-EvanZuo/blob/main/IMG/wechat.jpg" />
 ![编程语言](https://github-readme-stats.vercel.app/api/top-langs/?username=XiangBo-EvanZuo&layout=compact&theme=holi&hide=html,Less,Vue&custom_title=编程语言)
 
 
