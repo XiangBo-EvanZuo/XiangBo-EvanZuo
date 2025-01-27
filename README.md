@@ -4,9 +4,10 @@
 - 📫 联系我：15942043949
 - 😄 [我的B站主页，分享技术](https://space.bilibili.com/309430466)
 - 接单中，请加VX：PythonistaWang
-- ! [这里随便填写 ] (https://github.com/XiangBo-EvanZuo/XiangBo-EvanZuo/blob/main/IMG/wechat.jpg)
-
+- <img src="https://github.com/XiangBo-EvanZuo/XiangBo-EvanZuo/blob/main/IMG/wechat.jpg" />
 ![编程语言](https://github-readme-stats.vercel.app/api/top-langs/?username=XiangBo-EvanZuo&layout=compact&theme=holi&hide=html,Less,Vue&custom_title=编程语言)
+
+
 # 我的职业生涯Record：
   - 2020年1月：开始Coder生涯。【FE】
   - 2022年3月：对前端的焦虑驱使我开始研究后端，开始Nodejs方向的后端研究，完成了CI/CD，基本CRUD、微服务、借助腾讯云平台部署Serverless。
